@@ -31,6 +31,10 @@
     width: 600px;
 }
 
+.bilder2 {
+    width: 300px;
+}
+
 body>nav { 
     background-image: url(bakgrund.jpg);
     background-size: 100%;
